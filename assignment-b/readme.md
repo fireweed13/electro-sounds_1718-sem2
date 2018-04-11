@@ -1,0 +1,3 @@
+# Assignment B
+
+_For this assignment, we were tasked to explore various means of algorithmic transformations, like Glitch, Parameterize, Recursion, Repeat, Simulate and Transform. These forms of algorithmic processes allow us to create intricate sketches and allows for interesting forms of interaction with the sketches, be it using key or mouse press, or the movement of your mouse. This exercise equipped us with the skill to create our own sketches for the final project. In this we also touched on complex and simplex noise. All these are relevant to what we will do in the final assignment. In the archive folders you will find the process sketches that I tried and tested, and in the final folder you will find the final outcome for each algorithmic sketch_.

@@ -1,0 +1,9 @@
+***Beat Kontrol***
+
+*Project Description*
+
+In Beat Kontrol, my sketch allows me to use my drum kit to directly affect the aesthetics of my screen. By using the get audio and FFT function that p5js boasts, I am able to run my audio signal into the sketch. From here, with the frequency bands that I have set, as well as particular commands that I mapped to these bands, I am able to directly manipulate the graphics on screen. This would give me full control over the visuals that are displayed on the screen, as well as allowing me full musical control using my principal instrument, the drums. I would be able to produce a piece that I would have both musical and visual control over.
+
+*Reflection*
+
+In the process of doing this assignment, I learnt many new ways of achieving my goals. This is because there is no one correct way of doing this, I was forced to used the internet to search for a solution, and it is through that search for the solution that I learnt new tricks that have also helped to improve in various aspects of this final sketch. I took a very systematic approach towards this final sketch. First I visualized what I wanted the final product to be. After that, I went to break my idea down into smaller bits, bits that are achievable, or that I have already done so with my previous assignments. From there, I tried expanding on the various test sketches I had in hand, and some worked, some did not. After much trial and error, I consolidated all the working bits together to form my final sketch. It can do many things, like utilize audio to manipulate visuals, or use simple interactive functions like mouse or key press. In doing this project I've learnt many things about Javascript, as well as its many different capabilities. This has been a very fruitful journey that has proven to be a very useful skill to have in the days to come.

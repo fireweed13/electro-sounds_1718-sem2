@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  /* font-size:16px; */
+}
+
+html, body {
+  background-color: #ff7a7a;
+}
+
+
+
+.container {
+  margin-top:100px;
+  margin-bottom:100px;
+}
+
+
+
+.container2 {
+  margin-top:0px;
+  margin-bottom:0px;
+}
+
+.container3 {
+  margin-top:200px;
+  /* margin-bottom:0px; */
+}
+
+.fullscreen {
+  margin:10;
+}
+
+.sketch {
+  margin:0;
+  text-align:center;
+  padding: 20px;
+}
+
+.h-block {
+  margin:100px auto;
+  text-align:center;
+}
+
+.h-block h1 {
+  color: black;
+    font-size: 5em;
+}
+
+.txt-block {
+  width: 40%;
+  margin: 40px auto;
+}
+
+.txt-block h2 {
+  color: black;
+  font-family: Times, serif;
+  font-size: 3.0em;
+  margin-bottom: 20px;
+  text-align:center;
+}
+
+.txt-block p {
+  font-size: 1.2em;
+  line-height:1.5em;
+}
+
+.img-block {
+  width:90%;
+  margin:auto;
+  text-align:center;
+}
+
+.img-block2 {
+  width:90%;
+  margin-top:250px;
+  text-align:center;
+}
+
+.img-block figure {
+  display: inline-block;
+  width:50%;
+}
+
+.img-block figure img {
+  margin-top: 40%;
+  padding:20px;
+  width:80%;
+}
+/* style for the header menu */
+
+header {
+  position:fixed;
+  top:0;
+  left:0;
+  background-color: #f6fc7c;
+  width:100%;
+
+}
+
+div.a {
+  width:100%;
+  text-align:center;
+  margin-top:50px;
+  font-size: 200px;
+
+}
+
+div.b {
+  width:100%;
+  text-align:center;
+  margin-top:1px;
+  font-size: 30px;
+
+}
+
+ul.menu {
+  list-style-type: none;
+  margin-top:100px;
+  text-align:center;
+}
+
+ul.menu li {
+  display: inline-block;
+  text-align: center;
+}
+
+ul.menu li a {
+  color: black;
+  display: block;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+ul.menu li a:hover {
+  color: white;
+}
